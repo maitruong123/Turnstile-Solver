@@ -1,0 +1,9 @@
+{
+  "name": "turnstile-solver-node",
+  "version": "1.0.0",
+  "description": "Node.js implementation of Turnstile solver",
+  "main": "node_solver.js",
+  "dependencies": {
+    "playwright": "^1.43.1"
+  }
+}

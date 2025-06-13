@@ -102,6 +102,11 @@ A Python-based Turnstile solver using the patchright library, featuring multi-th
      ```bash
      python api_solver.py
      ```
+   - Or use the Node.js version after installing dependencies:
+     ```bash
+     npm install
+     node node_solver.js --url https://example.com --sitekey <sitekey>
+     ```
      
 ---
 
